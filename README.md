@@ -25,6 +25,7 @@ Además hemos aprendido a organizar un proyecto desde 0 con clases específicas,
 ```
 .
 
+```
 _- directories, - files_
 
 
